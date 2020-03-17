@@ -1,2 +1,2 @@
-# rails-practice
-# rails-practice
+# DMM WEBCAMPコンテンツ【Railsでアプリケーションを開発しよう】
+DMM WEBCAMPの学習コンテンツRailsでアプリケーションを開発しようの研修課題です。
